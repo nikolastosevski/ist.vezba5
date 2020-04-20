@@ -1,0 +1,15 @@
+{
+  "name": "listaknjiga",
+  "version": "1.0.0",
+  "description": "Lista sa 5 random knjiga..",
+  "main": "listaKnjiga.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lista",
+    "knjige"
+  ],
+  "author": "Nikola Stosevski",
+  "license": "ISC"
+}
